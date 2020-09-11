@@ -15,5 +15,9 @@ dsddsdss
 
 dwdedwsdwdww
 
+<<<<<<< HEAD
 
 77 seventh
+=======
+22 second
+>>>>>>> 7d243fb... 22 second
