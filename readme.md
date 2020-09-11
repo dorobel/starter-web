@@ -21,8 +21,5 @@ dwdedwsdwdww
 33 third
 
 
-<<<<<<< HEAD
 55 fifth
-=======
 44 forth
->>>>>>> 8ba7644... forth
